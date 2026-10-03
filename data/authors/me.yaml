@@ -22,9 +22,6 @@ links:
     url: https://www.linkedin.com/in/mariem-mdalla-7a3126384
   - icon: brands/github
     url: https://github.com/mariem-mdalla
-  - icon: document-arrow-down
-    url: /uploads/Resume.pdf
-    label: Download CV
 
 interests:
   - Full-Stack Development
