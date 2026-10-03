@@ -34,15 +34,15 @@ sections:
       title: 'About me'
       subtitle: ''
       text: |-
-        I'm a Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack development and application security.
+        I am a Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack web development and application security.
 
-        I build web applications end to end: React and TypeScript on the front end, Node.js and Express on the back end, with PostgreSQL or MongoDB underneath. I design security in from the start, with JWT authentication, role-based access control, and API hardening.
+        I build web applications end to end, using React and TypeScript on the front end, Node.js and Express on the back end, and PostgreSQL or MongoDB for data. I pay close attention to application security from the ground up, implementing RS256 JWT authentication, role-based access control, and API hardening.
 
-        In 2026 I worked on the official bilingual (EN/FR) web platform for the TUNCIS 2026 international AI conference, and as a remote web developer intern on bilingual (EN/AR) websites for a company based in Dubai.
+        In 2026, I worked as a full-stack developer intern architecting the official bilingual web platform for the TUNCIS 2026 international AI conference, and as a remote web developer intern at Instar building bilingual web solutions for King Word in Dubai.
 
-        Beyond code, I'm a GDG organizer and an IEEE member, and I'm currently founding an IEEE Student Branch Horizon School Of Digital Technologies, with the petition in progress.
+        Outside of coding, I am an active IEEE member currently petitioning to establish an IEEE Student Branch at Horizon School of Digital Technologies, and an active organizer with Google Developer Groups (GDG).
 
-        What's next: I want to take on opportunities abroad, do my Master's in Germany, and learn from new cultures along the way.
+        Looking ahead, I am eager to pursue international opportunities, complete my Master's studies in Germany, and continue building reliable software systems.
     design:
       columns: '1'
 ---

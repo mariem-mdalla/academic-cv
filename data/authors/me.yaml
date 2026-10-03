@@ -9,7 +9,7 @@ name:
   pronunciation: ''
 role: Software Engineering Student
 bio: |
-  Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack development and application security. I design and deploy production-ready web applications for academic and industry projects. IEEE member, GDG organizer, and founder of an IEEE Student Branch (petition in progress).
+  Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack development and application security. Active IEEE member petitioning to establish an IEEE Student Branch, and GDG organizer.
 
 affiliations:
   - name: Horizon School of Digital Technologies
@@ -18,6 +18,8 @@ links:
   - icon: at-symbol
     url: mailto:mariem.mdalla.tech@gmail.com
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mariem-mdalla-7a3126384
   - icon: brands/github
     url: https://github.com/mariem-mdalla
 
@@ -33,24 +35,24 @@ education:
     end: 2027-06-30 
 
 experience:
+  - role: Full-Stack Developer Intern
+    org: Horizon University (TUNCIS 2026, Sousse, Tunisia)
+    start: 2026-07-01
+    end: 2026-09-01
+    summary: |
+      - Architected and deployed the official bilingual (EN/FR) web platform for an international AI conference.
+      - Built registration engine with dynamic multi-currency pricing (DT/EUR) and attendance mode logic (In-Person/Online).
+      - Integrated serverless backend (Vercel), Neon PostgreSQL (Drizzle ORM), and automated email notifications.
+      - Developed paper abstract submission pipeline (PDF) and authored technical handover documentation.
   - role: Web Developer Intern
-    org: King Word Building Contracting LLC (via Instar, remote from Dubai, UAE)
+    org: King Word Building Contracting LLC (via Instar, remote Dubai, UAE)
     start: 2026-08-01
-    end: 2026-08-30
+    end: 2026-09-01
     summary: |
       - Developed responsive, bilingual (EN/AR) website pages using Next.js, TypeScript, and Sanity CMS.
       - Built interactive inquiry and career application forms using React Hook Form and Zod validation.
       - Connected forms to Supabase (PostgreSQL) with file upload handling and automated email notifications.
       - Integrated Google Analytics 4 with a privacy-compliant cookie consent banner (Consent Mode v2).
-  - role: Full-Stack Developer Intern
-    org: TUNCIS 2026, Horizon University (Sousse, Tunisia)
-    start: 2026-07-16
-    end: 2026-09-16
-    summary: |
-      - Architected and deployed the official bilingual (EN/FR) web platform for an international AI conference.
-      - Built a registration engine with dynamic multi-currency pricing (DT/€) and attendance mode logic (In-Person/Online).
-      - Integrated a serverless backend (Vercel), Neon PostgreSQL (Drizzle ORM), and automated email notifications.
-      - Developed a paper abstract submission pipeline (PDF) and wrote technical handover documentation.
 
 skills:
   - name: Languages & Web
