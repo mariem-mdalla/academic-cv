@@ -2,6 +2,9 @@
 title: HoriXam - University Exam Management Platform
 summary: Enterprise university exam management platform with multi-layer security and role-based access control.
 date: 2026-06-01
+# links:
+#   - type: github
+#     url: https://github.com/mariem-mdalla/horixam  # add when repo is public
 tags:
   - React
   - TypeScript

@@ -15,6 +15,10 @@ sections:
         about: ''
         education: ''
         interests: ''
+      # Download CV button shown below the bio
+      button:
+        text: Download CV
+        url: /uploads/Resume.pdf
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -27,16 +31,16 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: 'About me'
       subtitle: ''
       text: |-
-        I am a Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack web development and application security.
+        I am a Software Engineering student at Horizon School of Digital Technologies in Sousse, Tunisia, focused on full-stack web development and with a growing interest in cybersecurity.
 
-        I build web applications end to end, using React and TypeScript on the front end, Node.js and Express on the back end, and PostgreSQL or MongoDB for data. I pay close attention to application security from the ground up, implementing RS256 JWT authentication, role-based access control, and API hardening.
+        I build web applications end to end, using React and TypeScript on the front end, Node.js and Express on the back end, and PostgreSQL or MongoDB for data. I pay attention to security from the ground up, implementing JWT authentication, role-based access control, and API hardening.
 
         In 2026, I worked as a full-stack developer intern architecting the official bilingual web platform for the TUNCIS 2026 international AI conference, and as a remote web developer intern at Instar building bilingual web solutions for King Word in Dubai.
 

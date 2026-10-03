@@ -42,10 +42,13 @@ sections:
       title: Activities & Involvement
       subtitle: ''
       text: |-
-        * **ATIC Congress 2025** - Participated in workshops covering Post-Quantum Cryptography, Quantum Computing, IoT, and Cybersecurity.
-        * **Nuit de l'Info (2024 & 2025 editions)** - National overnight software engineering competition.
-        * **IEEE Member** - Active member, currently petitioning to establish an IEEE Student Branch at Horizon School of Digital Technologies.
-        * **GDG Organizer** - Active organizer for Google Developer Group community events and hands-on workshops.
+        * **ATIC Congress 2025** - Attended my first national technology congress, with sessions on Post-Quantum Cryptography, Quantum Computing, IoT, and Cybersecurity. It was the first time I was exposed to cutting-edge research topics outside the classroom and sparked my interest in security at the systems level.
+
+        * **Nuit de l'Info (2024 & 2025)** - Participated in both editions of Tunisia's national overnight programming competition, where teams build a web project from sunset to sunrise. Competing twice pushed my ability to make decisions fast under pressure and collaborate on a tight deadline.
+
+        * **IEEE Active Member** - Member of the IEEE student community, currently leading the petition to establish an official IEEE Student Branch at Horizon School of Digital Technologies.
+
+        * **GDG Organizer** - Active organizer with Google Developer Groups, contributing to hands-on technical workshops and developer community events.
     design:
       columns: '1'
 ---
