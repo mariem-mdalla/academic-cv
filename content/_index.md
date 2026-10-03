@@ -45,7 +45,7 @@ sections:
 
         Outside of coding, I am an active IEEE member currently petitioning to establish an IEEE Student Branch at Horizon School of Digital Technologies, and an active organizer with Google Developer Groups (GDG).
 
-        Looking ahead, I am eager to pursue international opportunities, complete my Master's studies in Germany, and continue building reliable software systems.
+        Looking ahead, I am eager to take on new technical challenges, deepen my expertise in software architecture and security, and continue building reliable, high-impact systems.
     design:
       columns: '1'
 ---
