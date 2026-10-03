@@ -67,3 +67,15 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# ============================================================================
+# Personal Photos (private - not for public GitHub)
+# ============================================================================
+
+# All personal photos in assets/media/authors except the avatar
+assets/media/authors/Atic-Congress/
+assets/media/authors/coffeShop/
+assets/media/authors/girls-Day--she shines/
+assets/media/authors/Horixam-presentation-Day/
+assets/media/authors/walking/
+assets/media/authors/CertificateNuitDelinfo.jpeg

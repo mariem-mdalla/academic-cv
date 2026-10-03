@@ -15,10 +15,6 @@ sections:
         about: ''
         education: ''
         interests: ''
-      # Download CV button shown below the bio
-      button:
-        text: Download CV
-        url: /uploads/Resume.pdf
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -47,6 +43,8 @@ sections:
         Outside of coding, I am an active IEEE member currently petitioning to establish an IEEE Student Branch at Horizon School of Digital Technologies, and an active organizer with Google Developer Groups (GDG).
 
         Looking ahead, I am eager to pursue international opportunities, complete my Master's studies in Germany, and continue building reliable software systems.
+
+        {{< button url="/uploads/Resume.pdf" icon="arrow-down-tray" >}}Download CV{{< /button >}}
     design:
       columns: '1'
 ---

@@ -2,7 +2,7 @@
 title: "Nuit de l'Info: Two Nights of Chaos and Code"
 summary: "What it feels like to participate in Tunisia's national overnight programming competition, twice."
 date: 2026-01-10
-draft: true
+draft: false
 tags:
   - Hackathon
   - Team
@@ -10,26 +10,18 @@ tags:
   - Competition
 ---
 
-<!-- PHOTO: Place your Nuit de l'Info photo as featured.jpg in this folder when you find it -->
+Participating in **Nuit de l'Info** is a rite of passage. It is a national overnight coding competition in Tunisia where teams have from sunset to sunrise to build a complete web project based on a surprise theme.
 
-*This post is a work in progress. Write it when you have time.*
+I have participated in both the 2024 and 2025 editions, and each time, it has been an incredible mix of chaos, collaboration, and intense coding.
 
-## What This Post Should Cover
+### Surviving the Night
 
-Write naturally about:
+When the sun goes down, the energy in the room is electric. You spend the first few hours debating architecture, assigning roles, and setting up the repository. By 3:00 AM, the exhaustion hits, and that is when the real test begins. You have to learn how to communicate clearly when everyone is tired, make fast decisions about what features to cut, and figure out how to debug code with blurry eyes.
 
-- What Nuit de l'Info is (a national overnight coding competition in Tunisia, starts at sunset, ends at sunrise)
-- Your first time (2024): who was on your team, what the challenge was, how the night went, did you sleep at all?
-- Your second time (2025): was it different? what did you do better?
-- The chaos of the last hour before sunrise when you are trying to get something working
-- What you built, even briefly
-- What you would tell someone thinking about joining for the first time
+![Nuit de l'Info Certificate](certificate.jpg)
 
-## What to Provide
-- A photo from either of the two events (team photo, screen with code, anything) - place as `featured.jpg` in this folder
-- The exact date of each Nuit de l'Info you attended (to correct the `date:` field above)
-- The name of what your team built if you remember it
+### Why I Keep Going Back
 
----
+Competing twice has fundamentally changed how I view software development. It pushed my ability to work under pressure and taught me that a good, deployed product is always better than a perfect, unfinished idea. 
 
-*Remove this draft section once you write the actual post.*
+The chaos of the last hour before sunrise—when everyone is frantically trying to get their final commits merged and the demo working—is an adrenaline rush you can't find in a normal classroom. If you ever get the chance to participate in an overnight hackathon, do it. You will lose a night of sleep, but you will gain an unforgettable experience.
